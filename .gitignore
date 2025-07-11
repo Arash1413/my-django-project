@@ -1,0 +1,5 @@
+db.sqlite3
+venv
+ask_app/__pycache__
+
+Shop/settings.py
